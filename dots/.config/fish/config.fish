@@ -24,7 +24,3 @@ if status is-interactive # Commands to run in interactive sessions can go here
     alias q 'qs -c ii'
     
 end
-
-if status is-interactive
-	fastfetch
-end
